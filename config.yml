@@ -3,6 +3,7 @@ copy:
     - bundle
     - favicon.png
     - robots.txt
+    - images
 # I18n Support
 lang:
     archive:
